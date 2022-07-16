@@ -1,0 +1,11 @@
+.add-form{
+    background-color: white;
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.add-f{
+    width: 80%;
+}
